@@ -1,1 +1,2 @@
-Berisikan program contoh untuk struktur data graph pada python
+Berisikan program contoh untuk berbagai struktur data pada python
+
